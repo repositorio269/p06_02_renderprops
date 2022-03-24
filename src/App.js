@@ -1,8 +1,8 @@
+import Houses from "./pages/Houses";
+
 function App() {
   return (
-    <div>
-      
-    </div>
+    <Houses />
   );
 }
 
